@@ -26,17 +26,17 @@ const config = {
     "phone": "6137065139",
     "email": "ashley@driscollpeca.com",
     "bio": "",
-    "photoUrl": null,
+    "photoUrl": "https://www.google.com/url?sa=i&url=https%3A%2F%2Frankmyagent.com%2Flatest_review%2Fa-review-for-ashley-armstrong&psig=AOvVaw15AxCpmBzXaB7Y18Uz017B&ust=1753391231149000&source=images&cd=vfe&opi=89978449&ved=0CBUQjRxqFwoTCMig3r3x044DFQAAAAAdAAAAABAV",
     "social": {
       "facebook": "https://www.facebook.com/driscollpecateam",
-      "instagram": "https://instagram.com/ae.parks",
+      "instagram": "https://www.instagram.com/driscollpecateam",
       "website": "https://driscollpeca.com/"
     }
   },
   "brokerage": {
     "name": "Real Broker LTD",
-    "logoUrl": null,
-    "address": "218 Brant Avenue\nBrantford ON N3T 3H9"
+    "logoUrl": "",
+    "address": "218 Brant AvenueBrantford ON N3T 3H9"
   },
   "openHouse": {
     "eventDate": "2025-07-27",
@@ -153,7 +153,7 @@ const config = {
     "repoName": "Open-House-369",
     "repoUrl": "https://github.com/arslvn93/Open-House-369",
     "tag": "Open House 60 Corktown Lane",
-    "netlifyUrl": null,
+    "netlifyUrl": "",
     "siteId": "93ae373b-71c5-4d3b-af5a-436463bb64a4"
   }
 };
