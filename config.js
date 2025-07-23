@@ -21,11 +21,11 @@ const config = {
     ]
   },
   "realtor": {
-    "fullName": "Driscoll-Peca Team",
+    "fullName": "Ashley from Driscoll-Peca Team",
     "title": "REALTOR®",
     "phone": "6137065139",
     "email": "ashley@driscollpeca.com",
-    "bio": "",
+    "bio": "Servicing Ottawa and the surrounding areas. With over 10 years of real estate service under our belt, we can assure you that you are in good hands with our team. \nWe are committed to listening to our clients, focusing on their needs and using keen negotiating skills to ensure a successful transaction for both buyers and sellers. With deep local knowledge and a true passion for real estate, we're committed to helping you find the perfect place to call home. \nLet's make your next move an exciting and rewarding one — we can't wait to work with you!",
     "photoUrl": "https://www.google.com/url?sa=i&url=https%3A%2F%2Frankmyagent.com%2Flatest_review%2Fa-review-for-ashley-armstrong&psig=AOvVaw15AxCpmBzXaB7Y18Uz017B&ust=1753391231149000&source=images&cd=vfe&opi=89978449&ved=0CBUQjRxqFwoTCMig3r3x044DFQAAAAAdAAAAABAV",
     "social": {
       "facebook": "https://www.facebook.com/driscollpecateam",
