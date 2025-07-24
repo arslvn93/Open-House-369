@@ -143,7 +143,7 @@ const config = {
     "repoName": "Open-House-369",
     "repoUrl": "https://github.com/arslvn93/Open-House-369",
     "tag": "Open House 60 Corktown Lane",
-    "netlifyUrl": "",
+    "netlifyUrl": "https://services.leadconnectorhq.com/hooks/CVLYBNRm65xkdYXWeFCq/webhook-trigger/Bz5U2LrvSTZglC5ZrM8D",
     "siteId": "93ae373b-71c5-4d3b-af5a-436463bb64a4"
   }
 };
