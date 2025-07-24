@@ -51,11 +51,7 @@ const config = {
       },
       {
         "icon": "fas fa-vr-cardboard",
-        "text": "Virtual Tour"
-      },
-      {
-        "icon": "fas fa-chart-line",
-        "text": "On-Market Comparables"
+        "text": "Video Tour"
       }
     ]
   },
